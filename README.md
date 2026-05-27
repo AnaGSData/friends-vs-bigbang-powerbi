@@ -69,14 +69,22 @@ The dashboard was designed to analyze and compare:
 
 ---
 
+## Dashboard Availability
+
+The original Power BI file is not included due to file size limitations.
+
+Selected dashboard screenshots are included to illustrate the main visual analysis, storytelling structure and final insights.
+
+---
+
 ## Project Structure
 
 ```bash
 files/
 └── datasets and supporting files
 
-visualization/
-└── Power BI project files, exports or final dashboard materials
+friends-vs-bigbang-visualization.pdf
+
 
 README.md
 ```
@@ -89,7 +97,7 @@ README.md
 
 The datasets and supporting files are included in the repository when file size allows.
 
-If the original Power BI file or full datasets are not included due to file size limitations, the repository focuses on documenting the dashboard objective, structure, analytical approach and final insights.
+If the original Power BI file or full dashboard export is not included due to file size limitations, the repository focuses on documenting the dashboard objective, analytical approach, visual storytelling structure and final insights.
 
 ---
 
